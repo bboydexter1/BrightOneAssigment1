@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(33): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(68): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(80): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(90): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(119): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\archer\desktop\brightoneassignment1\brightoneassignment1\source.cpp(130): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  BrightOneAssignment1.vcxproj -> C:\Users\Archer\Desktop\BrightOneAssignment1\Debug\BrightOneAssignment1.exe
