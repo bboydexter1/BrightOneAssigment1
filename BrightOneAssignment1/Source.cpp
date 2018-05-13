@@ -8,8 +8,6 @@ using namespace std;
 
 int main()
 {
-	cout << "hello world" << endl;
-
 	vector<string> inFileLines;
 	vector<unsigned char> hexArray;
 	string line;
@@ -25,7 +23,7 @@ int main()
 		fileHolder.close();
 	}else cout << "Unable to open file";
 
-	//wyci¹gniecie zakresu 0-F
+	//wyciÂ¹gniecie zakresu 0-F
 	for (int i = 0 ; i < inFileLines.size() ; i++)
 	{
 		string newLine = "";
@@ -74,7 +72,7 @@ int main()
 		}
 	}
 
-	//dzielenie na czêœci
+	//dzielenie na czÃªÅ“ci
 	vector <unsigned char> even;
 	vector <unsigned char> notEven;
 	for (int i = 0 ; i < hexArray.size() ; i++)
@@ -109,7 +107,7 @@ int main()
 	sort(even.begin(), even.end());
 	sort(notEven.rbegin(), notEven.rend());
 
-	//tworzenie plików wyjœciowych
+	//tworzenie plikÃ³w wyjÅ“ciowych
 	
 	ofstream evenFileHolder;
 	evenFileHolder.open("even.txt", ios::out);
